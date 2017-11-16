@@ -1,4 +1,4 @@
-
+import time
 ### MAD LIB ###
 ### Source: http://www.rainbowresource.com/products/001471i1.jpg
 
@@ -56,3 +56,5 @@ adj2 = input()
 
 print("Write a noun.")
 noun9 = input()
+
+time.sleep(100)

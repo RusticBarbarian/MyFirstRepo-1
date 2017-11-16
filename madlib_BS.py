@@ -1,4 +1,4 @@
-
+import time
 ### MAD LIB ###
 ### Source: http://www.rainbowresource.com/products/001471i1.jpg
 
@@ -56,7 +56,7 @@ adj2 = input()
 
 print("Write a noun.")
 noun9 = input()
-
+time.sleep (100)
 
 print("A one act play to be performed by two" + pluralnoun1 + " in this room.")
 print("PATIENT: Thiank you so very much for seeming me, Doctor" + person1+ " on such" + adj1 + " notice.")
